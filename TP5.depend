@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1577573659 source:h:\c_c++\tp5\main.cpp
+	<iostream>
+	"Personne.h"
+
+1577574251 h:\c_c++\tp5\include\personne.h
+	<string>
+	"Date.h"
+
+1577574240 source:h:\c_c++\tp5\src\personne.cpp
+	"Personne.h"
+	<string>
+	<iostream>
+
+1577574279 source:h:\c_c++\tp5\src\date.cpp
+	"Date.h"
+	<ctime>
+
+1577574291 h:\c_c++\tp5\include\date.h
+
